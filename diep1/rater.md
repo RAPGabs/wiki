@@ -1,0 +1,4 @@
+---
+id: rater
+title: Rater
+---
